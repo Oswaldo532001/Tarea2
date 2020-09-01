@@ -1,0 +1,31 @@
+body {
+	background:url(../Galeria/fondofuturo.jpg);
+}
+.cinco{
+    background: url(../Galeria/fondo5.jpg);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.contenido img{
+    width: 200px;
+    height: 100px;
+    float: none;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+        
+}
+.contenido p{
+    text-align: justify;
+    font-size: 25px;
+    font-weight: 100;
+    margin-top: 0px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.diez{
+    background: url(../Galeria/fondo10.png);
+    margin-left: 20px;
+    margin-right: 20px;
+
+}

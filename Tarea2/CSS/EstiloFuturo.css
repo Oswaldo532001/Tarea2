@@ -1,0 +1,16 @@
+body {
+	background:url(../Galeria/fondofuturo.jpg);
+}
+.contenido p{
+    text-align: justify;
+    font-size: 25px;
+    font-weight: 100;
+    margin-top: 0px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.contenido img{
+    height: 200px;
+    width: 800px;
+}
+

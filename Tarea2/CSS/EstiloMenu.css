@@ -1,0 +1,49 @@
+body {
+	background:url(../Galeria/fondomenu.jpg);
+}
+h1{
+    color: yellow;
+    font-size: 25px;
+}
+#Enlaces{
+    background: url(../Galeria/fon.gif);
+    padding: 10px;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+    
+#Curri{
+   
+    padding: 10px;
+    color: #fff;
+    width: 200px;    
+    margin: 40px;
+    background: #039;
+}
+#Personaje{
+    
+    padding: 10px;
+    color: #fff;
+    width: 200px;
+    margin: 40px;
+    background: #039;
+}
+#futuro{
+    
+    padding: 10px;
+    color: #fff;
+    width: 200px;
+    margin: 40px;
+    background: #039;
+}
+#tutorial{
+    
+    padding: 10px;
+    color: #fff;
+    width: 200px;
+    margin: 40px;
+    background: #039;
+}

@@ -1,0 +1,45 @@
+body {
+	background:url(../Galeria/fondocurri.gif);
+}
+h2{
+    color: white;
+    font-size: 50px;
+    
+}
+.documento{
+    widows: 100%;
+    max-resolution: 1000px;
+    margin:100px;
+    padding: 10px;
+    background: #838573;
+    margin-top: 10px;
+    overflow: hidden;
+}
+.documento img{
+    width: 250px;
+    height: 200px;
+    float: left;
+    margin-right: 20px;
+}
+.cuerpo{
+     widows: 100%;
+    max-resolution: 1000px;
+    padding: 10px;
+    background: #fff;
+    margin-top: 40px;
+    overflow: hidden;
+    clear: both;
+}
+.sub_titulo{
+    background: #15D6D3;
+    color:white;
+}
+.cuerpo p{
+   margin-left: 25px;
+}
+.cuerpo li{
+    margin-left: 15px;
+}
+img{
+    
+}
